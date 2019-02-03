@@ -1,0 +1,24 @@
+{
+  "name": "windows_git",
+  "version": "1.0.0",
+  "description": "Learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalit6409/windows_git.git"
+  },
+  "author": "Lalit Kumar Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalit6409/windows_git/issues"
+  },
+  "homepage": "https://github.com/lalit6409/windows_git#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
